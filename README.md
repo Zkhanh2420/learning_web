@@ -142,10 +142,4 @@ learnow/
 - Handling cloud media uploads with Cloudinary
 - Structuring a maintainable full-stack MERN application
 
----
 
-## 📬 Contact
-
-Have questions or feedback? Reach out:
-
-📧 **anh.trannguyen@hcmut.edu.vn**
